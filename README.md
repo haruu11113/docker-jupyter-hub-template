@@ -1,3 +1,4 @@
-## 使い方
+## docs
+https://zero-to-jupyterhub.readthedocs.io/en/latest/jupyterhub/customizing/user-storage.html
 
-docker-composer.ymlのport(8888:8888)は他の人と被らないようにするべし。
+## memo
